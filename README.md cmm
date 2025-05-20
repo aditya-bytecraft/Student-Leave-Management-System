@@ -1,0 +1,18 @@
+# Student Leave Management System (Java Console Project)
+
+A simple console-based Java application that helps manage student leave requests. The system allows students to apply for leave and enables an admin to review, approve, or reject those applications.
+
+## Features
+
+- Student leave application
+- Admin review and status update
+- Persistent storage using text files
+- Menu-driven console interface
+- Basic object-oriented design using Java
+
+## Technologies Used
+
+- Java (OOP, File I/O, Collections)
+- Text file for data storage (No external database)
+
+
