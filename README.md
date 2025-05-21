@@ -15,47 +15,7 @@ A simple Java console-based application to manage student leave requests. This p
 - Java (OOP, Collections, File I/O)
 - VS Code (IDE)
 - Git & GitHub (Version Control)
-
-## 📁 Project Structure
-
-/StudentLeaveManagementSystem
-│
-├── Main.java // Entry point of the app
-├── Student.java // Student data model
-├── LeaveApplication.java // Leave application class
-├── LeaveManager.java // Core logic to manage leave
-├── leave_data.txt // Stores leave records
-└── README.md // Project documentation
-
-bash
-Copy
-Edit
-
-## ▶️ How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/aditya-bytecraft/Student-Leave-Management-System.git
-   cd Student-Leave-Management-System
-Open in VS Code or any Java IDE.
-
-Compile and run
-
-bash
-Copy
-Edit
-javac Main.java
-java Main
-💡 Future Enhancements
-GUI interface using JavaFX/Swing
-
-Admin & student login system
-
-Database integration (MySQL/SQLite)
-
-Email notifications for leave status
-
+- 
 📌 Author
 Aditya Mishra
 📧 adityamishra8852@gmail.com
-🔗 LinkedIn
