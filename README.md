@@ -15,7 +15,7 @@ A simple Java console-based application to manage student leave requests. This p
 - Java (OOP, Collections, File I/O)
 - VS Code (IDE)
 - Git & GitHub (Version Control)
-- 
+
 📌 Author
 Aditya Mishra
 📧 adityamishra8852@gmail.com
